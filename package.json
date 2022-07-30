@@ -1,0 +1,22 @@
+{
+  "name": "apirest-js-movie",
+  "version": "1.0.0",
+  "description": "Practica de consumo de API REST con JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wild320/ApiRest-Js-Movie.git"
+  },
+  "keywords": [
+    "movie"
+  ],
+  "author": "wild320",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wild320/ApiRest-Js-Movie/issues"
+  },
+  "homepage": "https://github.com/wild320/ApiRest-Js-Movie#readme"
+}
